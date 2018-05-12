@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3793
     wikipedia: http://en.wikipedia.org/wiki/James_Weldon_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17884#Fifty-years--amp--Other-Poems
 gutenberg_issued: '2006-03-01'
 gutenberg_type: Text
 identifiers:
