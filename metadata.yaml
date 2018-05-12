@@ -1,0 +1,42 @@
+_repo: Fifty-years--amp--Other-Poems_17884
+_version: 0.1.0
+alternative_title: Fifty years and Other Poems
+contributor:
+  commentator:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    - Matthews, James Brander
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, James Weldon
+    alias: Johnson, J. W. (James Weldon)
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '3793'
+    url: http://www.gutenberg.org/2009/agents/3793
+    wikipedia: http://en.wikipedia.org/wiki/James_Weldon_Johnson
+description: ''
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17884'
+  lccn: '18010300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Poetry'
+title: Fifty years & Other Poems
+url: http://www.gutenberg.org/ebooks/17884
